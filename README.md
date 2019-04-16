@@ -1,1 +1,1 @@
-# st2
+# all-status-bot
